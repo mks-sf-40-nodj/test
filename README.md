@@ -1,8 +1,9 @@
-# gitworkflow
-A repo to test git, pull request, and rebase.
-
+# hey hey!
 ## Git Commit Conventions
 Please follow Karma for your commits and pull-request.
+
+- this is a test
+- this another test
 
 Excerpt from [Karma Git Commit Msg](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
 ### Template:
