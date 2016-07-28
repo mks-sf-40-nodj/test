@@ -9,6 +9,8 @@ CHANGE!!! CHANGE!!! CHANGE!!!!
 A repo to test git, pull request, and rebase.
 CHANGE!!! CHANGE!!! CHANGE!!!!
 BYEEEEEE  HI MOFOS !!!!!!!!!!!!!!!
+BYEEEEEE  HI MOFOS !!!!!!!!!!!!!!!
+  HI MOFOS !!!!!!!!!!!!!!!
 
 # gitworkflow
 A repo to test git, pull request, and rebase.
@@ -118,6 +120,7 @@ Closes #0, #0, #0
              `%,;;;;;;;;;;;;;;;;;;         `;;;;;;;;;;;;;;;;;;;'
               `%;;;;;;;;;;;;;;;;;'           `;;;;;;;;;;;;;;;'
                 `;;;;;;;;;;;;;;'                '''''''''''
+<<<<<<< HEAD
 
 
 
@@ -193,3 +196,5 @@ Closes #0, #0, #0
 =======
 FISH!
 >>>>>>> Adding Feature #3
+=======
+>>>>>>> 4df989a0e96f71213cb4f6bb8da642ad0839d9cc
